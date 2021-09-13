@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 1
+modal-id: TEST
 date: 2014-07-18
-img: cabin.png
+img: platforms.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Hi there this is a atest
+description: We find and advertise listings on a variety of platforms. Like Facebook marketplace, gumtree, cash convertors.
 ---

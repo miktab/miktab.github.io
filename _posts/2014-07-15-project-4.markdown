@@ -2,10 +2,10 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: delivery.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: We have years of experience in both local delivery and postage. Our network of delivery drivers handle local pickup and drop off. We have also posted hundreds of items and know how to protect ourselves when things go wrong.
 ---

@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: automation.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: We have proprietary language models, to understand what is being sold, and pricing models to evaluate new listings in real time. With our database of millions of listings we can study the supply and demand in different regions to find what to buy and sell.
 ---
