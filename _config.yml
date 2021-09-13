@@ -4,7 +4,7 @@ email: tomhqq@gmail.com
 url: https://github.com/miktab
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "AI Modelling - Creating Deals - Delivery"
+skills: "The liquidity providers of the second hand market"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -34,7 +34,7 @@ color:
 footer:
   copyright: IRLGE
   location: Melbourne
-  social: Around the Web
+  social: Socials
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -48,7 +48,7 @@ social:
 #  - title: bitbucket
 #    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/miktab
+    url: https://rieszrt.github.io/
 
 # Postal address (add as many lines as necessary)
 address:
